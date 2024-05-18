@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula_Mobile_08_exe1</string>
+    <string name="etID">Coloque o ID do cliente</string>
+    <string name="btnCalc">calcular</string>
+    <string name="btnVoltar">voltar</string>
+    <string name="cbVip">Ingresso-Vip</string>
+    <string name="tvBemVindo">BEM VINDO A COMPRA DE INGRESSOS DO PARQUE</string>
+
+</resources>
